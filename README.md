@@ -18,7 +18,7 @@
 
 3) Run the "run Main" configuration: the JAR file will be created inside folder `/out/artifacts/jar`.
 	- you can automatically build your JAR file with any run configuration. Just go to the Configuration settings 
-	and add a task under "Before launch". Select "build artifact" and tick "runnable jar".
+	and add a task under "Before launch", select "build artifact" and tick "runnable jar".
 
 4) To run your .jar file go to the `/out/artifacts/jar` folder and run
 
